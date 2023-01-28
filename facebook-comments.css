@@ -1,0 +1,72 @@
+.fb_pic{
+    width:48px;
+    height:48px;
+}
+.fb_meta{
+    color: #90949c;
+    font-size: 12px;
+    line-height: 1.358;
+}
+.fb_meta a{
+    color: #4267b2;
+}
+.fb_comment{
+    color: #1d2129;
+    margin: 4px 0 4px 0;
+    font-size:14px;
+    line-height: 19.012px;
+}
+.fb_comment_wrapper{
+    font-family: helvetica, arial, sans-serif;
+    margin-bottom:15px;
+}
+.fb_name{
+    color: #365899;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight:bold;
+    font-size:14px;
+}
+.fb_image_block{
+    float:left;
+    margin-right: 10px;
+}
+.fb_image{
+    height:48px;
+}
+.fb_comment_block{
+    margin-left: 55px;
+}
+.fb_line{
+    margin-bottom: 0px;
+}
+.fb_plugin_link{
+    color: #365899;
+    cursor: pointer;
+    text-decoration: none;
+    font-size:11px;
+    font-family: helvetica, arial, sans-serif;
+}
+.fb_comments_count_cover{
+    font-size:14px;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    color: #1d2129;
+    background-color:white;
+    z-index:2;
+    padding:5px;
+    display: inline-block;
+    position: absolute;
+}
+.fb_comments_container{
+    height: 120px !important;
+    overflow:hidden !important;
+}
+.fb_comment_section{
+    padding-left: 8px;
+    margin-top:15px;
+}
+.fb_like_button{
+    padding-right: 4px;
+    margin-top: -5px;
+}
